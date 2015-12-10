@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test用のレポジトリ
 test用のレポジトリ
 
@@ -32,3 +33,7 @@ test用のレポジトリ
 　  end
 　end
 　~~~
+=======
+# test
+test用のレポジトリ
+>>>>>>> 9dbfd31ba84c5868ae8a3f83e40a3a9b5d057d5c
